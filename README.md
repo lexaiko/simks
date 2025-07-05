@@ -1,8 +1,7 @@
-<p align="center"><a href="https://github.com/amuadib/saku" target="_blank"><img src="https://github.com/amuadib/saku/blob/main/public/logo_full_h.png?raw=true" width="400" alt="Logo S.A.K.U"></a></p>
-
 ## Tentang SAKU
 
-Sistem Administrasi Keuangan (SAKU) Miftahul Ulum adalah Software Administrasi Keuangan Sekolah yang digunakan di lembaga kami [SDI Miftahul Ulum Klemunan](https://sdi.miftahululum.web.id) & [SMPI Miftahul Ulum](https://smpi.miftahululum.web.id) Jatikeplek Klemunan Wlingi Blitar. Fitur-fitur yang tersedia antara lain :
+Sistem Administrasi Keuangan (SAKU) Miftahul Ulum adalah Software Administrasi Keuangan Sekolah yang digunakan di lembaga.
+fitur yang tersedia antara lain :
 
 -   Data Siswa
 -   Data Periode
