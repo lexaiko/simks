@@ -1,6 +1,6 @@
 ## Tentang SAKU
 
-Sistem Administrasi Keuangan (SAKU) Miftahul Ulum adalah Software Administrasi Keuangan Sekolah yang digunakan di lembaga.
+Sistem Administrasi Keuangan (SAKU) adalah Software Administrasi Keuangan Sekolah yang digunakan di lembaga.
 fitur yang tersedia antara lain :
 
 -   Data Siswa
@@ -25,7 +25,7 @@ Siapkan software pendukung:
 Pastikan software-software diatas sudah berada di path sistem operasi (https://www.computerhope.com/issues/ch000549.htm)
 
 ```bash
-git clone https://github.com/amuadib/saku.git
+git clone https://github.com/lexaiko/simks.git
 cd saku
 composer install
 cp .env.example .env
@@ -76,18 +76,4 @@ atau juga bisa menggunakan [Supervisor](https://laravel.com/docs/11.x/queues#sup
 ## Lisensi
 
 Aplikasi ini menggunakan lisensi sesuai dengan lisensi Laravel yaitu [MIT license](https://opensource.org/licenses/MIT).<br/>
-Silahkan dipakai dan dimodifikasi sesuai dengan lisensi diatas.
-
-### Dibuat oleh
-
-[a.muadib](https://github.com/amuadib) Operator di
-[SDI Miftahul Ulum Klemunan](https://sdi.miftahululum.web.id) dan
-[SMPI Miftahul Ulum](https://smpi.miftahululum.web.id)
-
-#### Disclaimer
-
--   Aplikasi ini diberikan dengan apa adanya (AS-IS) dengan harapan dapat bermanfaat, tanpa jaminan apapun dari pembuat bahwa Aplikasi akan bekerja sebagaimana mestinya.
--   Pembuat tidak berkewajiban untuk memperbaiki segala bentuk Kesalahan atau Bug yang mungkin terjadi.
--   Segala bentuk kerugian berupa apapun yang terjadi akibat penggunaan Aplikasi menjadi tanggung-jawab sepenuhnya dari Pengguna (Anda).
--   Dengan menggunakan Aplikasi ini, berarti anda setuju dan tidak akan menuntut tanggung-jawab berupa apapun dari pembuat.
--   Kritik, saran atau request penambahan fitur dapat disampaikan ke a.muadib(at)gmail.com. Penerapan dan penambahan fitur menjadi hak sepenuhnya dari pembuat.
+Silahkan dipakai dan dimodifikasi sesuai dengan lisensi diatas
